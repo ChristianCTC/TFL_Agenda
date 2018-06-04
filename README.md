@@ -9,7 +9,7 @@ First Iteration Due: 15/06/2018 (Working Prototype) ()
       Design () White boi Job
          Main Screen()
          Calendar Screen()
-         // Ignore TFL Logo
+         
          
          
          
@@ -18,3 +18,4 @@ First Iteration Due: 15/06/2018 (Working Prototype) ()
       Programming () Fat boi Job 
            Main Screen()
            Calendar Screen()
+           Create Logo For intro page ()
